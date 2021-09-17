@@ -24,7 +24,7 @@
 
 ## 4. Database
 
- * [soda-sql](](https://github.com/sodadata/soda-sql) -
+ * [soda-sql](https://github.com/sodadata/soda-sql) -
 
 ## 5. Security
 

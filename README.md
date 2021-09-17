@@ -13,6 +13,7 @@
 ## 3.Application
 
  * [pyroscope](https://github.com/pyroscope-io/pyroscope) - Pyroscope is an open source continuous profiling platform
+ * [PolarSignals](https://www.polarsignals.com/) - Polar Signals Continuous Profiler collects, stores and makes profiles available to be queried over time
 
 ### Java
 

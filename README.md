@@ -12,7 +12,7 @@
 
 ## 3.Application
 
- * [pyroscope](](https://github.com/pyroscope-io/pyroscope) - Pyroscope is an open source continuous profiling platform
+ * [pyroscope](https://github.com/pyroscope-io/pyroscope) - Pyroscope is an open source continuous profiling platform
 
 ### Java
 

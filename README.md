@@ -12,13 +12,13 @@
 
 ## 3.Application
 
- * [pyroscope](https://github.com/pyroscope-io/pyroscope) - Pyroscope is an open source continuous profiling platform
+ * [Pyroscope](https://github.com/pyroscope-io/pyroscope) - Pyroscope is an open source continuous profiling platform
  * [PolarSignals](https://www.polarsignals.com/) - Polar Signals Continuous Profiler collects, stores and makes profiles available to be queried over time
 
 ### Java
 
- * [Arthas](](https://github.com/alibaba/arthas) -
- * [Arthas MVEL](](https://github.com/XhinLiang/arthas-mvel) -
+ * [Arthas](https://github.com/alibaba/arthas) -
+ * [Arthas MVEL](https://github.com/XhinLiang/arthas-mvel) -
  * [Bistoury](https://github.com/qunarcorp/bistoury) -
  * [VJTools](https://github.com/vipshop/vjtools) -
 

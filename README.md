@@ -27,10 +27,10 @@
 
 ### Java
 
-- [Arthas](https://github.com/alibaba/arthas) -
-- [Arthas MVEL](https://github.com/XhinLiang/arthas-mvel) -
-- [Bistoury](https://github.com/qunarcorp/bistoury) -
-- [VJTools](https://github.com/vipshop/vjtools) -
+- [Arthas](https://github.com/alibaba/arthas) - Arthas is a Java Diagnostic tool open sourced by Alibaba.
+- [Arthas MVEL](https://github.com/XhinLiang/arthas-mvel) - Arthas-MVEL use MVEL as first-class command parser and support all of the features of Arthas.
+- [Bistoury](https://github.com/qunarcorp/bistoury) - Bistoury is Qunar's java application production problem diagnosis tool, providing a one-stop problem diagnosis solution.
+- [VJTools](https://github.com/vipshop/vjtools) - The vip.com's java coding standard, libraries and tools.
 - [Java-debug-tool](https://github.com/pandening/Java-debug-tool) - Dynamic debugging tool. it provides some debugging commands to debug your code in runtime.
 
 ### Python

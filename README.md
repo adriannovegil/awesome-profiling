@@ -2,8 +2,8 @@
 
 ## 1. System Overview
 
-- [top](https://www.booleanworld.com/guide-linux-top-command/) - Allows users to monitor processes and system resource usage on Linux. It is one of the most useful tools in a sysadmin’s toolbox, and it comes pre-installed on every distribution.
-- [htop](https://support.cloudways.com/system-monitoring-using-htop-command/) - Command line utility that allows you to interactively monitor your system’s vital resources or server’s processes in real time.
+- [top](https://www.booleanworld.com/guide-linux-top-command/) - Allows users to monitor processes and system resource usage on Linux. It is one of the most useful tools in a sysadmin's toolbox, and it comes pre-installed on every distribution.
+- [htop](https://support.cloudways.com/system-monitoring-using-htop-command/) - Command line utility that allows you to interactively monitor your system's vital resources or server's processes in real time.
 - [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics.
 - [Hotspot](https://github.com/KDAB/hotspot) - Linux perf GUI for performance analysis.
 - [parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability.
@@ -48,7 +48,7 @@
 
 - [JS-Profiler](https://github.com/haensl/js-profiler) - JavaScript profiling tool and library of profiling modules and benchmarks.
 
-### NodeJS
+### Node.js
 
 - [flamebearer](https://github.com/mapbox/flamebearer) - Flame graph tool for Node and V8.
 

@@ -1,4 +1,4 @@
-# Awesome Profiling
+# Awesome Profiling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## 1. System Overview
 

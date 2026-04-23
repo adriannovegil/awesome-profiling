@@ -39,6 +39,7 @@
 
 ### Java
 
+- [BitDive](https://bitdive.io) - Runtime profiler for Java/Kotlin with distributed tracing, method-level latency measurement, and service maps.
 - [Arthas](https://github.com/alibaba/arthas) - Arthas is a Java Diagnostic tool open sourced by Alibaba.
 - [Arthas MVEL](https://github.com/XhinLiang/arthas-mvel) - Arthas-MVEL use MVEL as first-class command parser and support all of the features of Arthas.
 - [Bistoury](https://github.com/qunarcorp/bistoury) - Bistoury is Qunar's java application production problem diagnosis tool, providing a one-stop problem diagnosis solution.

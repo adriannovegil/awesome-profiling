@@ -26,23 +26,23 @@
 - [Flame Scope](https://github.com/Netflix/flamescope) - FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
 - [Likwid](https://github.com/RRZE-HPC/likwid) - Toolsuite of command line applications and a library for performance oriented programmer.
 - [Cpuusage](https://github.com/d99kris/cpuusage) - Instrumentation CPU profiler for Linux and macOS applications.
-- [Diago](https://github.com/remeh/diago) - Diago is a visualization tool for profiles and heap snapshots generated with `pprof`.
+- [Diago](https://github.com/remeh/diago) - Visualization tool for profiles and heap snapshots generated with `pprof`.
 
 ## 2. Runntime Platfom
 
-- [conprof](https://github.com/conprof/conprof) - Conprof collects, stores and makes profiles available to be queried over time.
+- [conprof](https://github.com/conprof/conprof) - Collects, stores and makes profiles available to be queried over time.
 
 ## 3. Application
 
-- [Pyroscope](https://github.com/pyroscope-io/pyroscope) - Pyroscope is an open source continuous profiling platform.
+- [Pyroscope](https://github.com/pyroscope-io/pyroscope) - Open source continuous profiling platform.
 - [PolarSignals](https://www.polarsignals.com/) - Polar Signals Continuous Profiler collects, stores and makes profiles available to be queried over time.
 
 ### Java
 
 - [BitDive](https://bitdive.io) - Runtime profiler for Java/Kotlin with distributed tracing, method-level latency measurement, and service maps.
-- [Arthas](https://github.com/alibaba/arthas) - Arthas is a Java Diagnostic tool open sourced by Alibaba.
+- [Arthas](https://github.com/alibaba/arthas) - Java Diagnostic tool open sourced by Alibaba.
 - [Arthas MVEL](https://github.com/XhinLiang/arthas-mvel) - Arthas-MVEL use MVEL as first-class command parser and support all of the features of Arthas.
-- [Bistoury](https://github.com/qunarcorp/bistoury) - Bistoury is Qunar's java application production problem diagnosis tool, providing a one-stop problem diagnosis solution.
+- [Bistoury](https://github.com/qunarcorp/bistoury) - Qunar's Java application production problem diagnosis tool, providing a one-stop problem diagnosis solution.
 - [VJTools](https://github.com/vipshop/vjtools) - The vip.com's java coding standard, libraries and tools.
 - [Java-debug-tool](https://github.com/pandening/Java-debug-tool) - Dynamic debugging tool. it provides some debugging commands to debug your code in runtime.
 
@@ -68,7 +68,7 @@
 ## 4. Database
 
 - [soda-sql](https://github.com/sodadata/soda-sql) - Data testing, monitoring, and profiling for SQL-accessible data.
-- [Insecticide](https://github.com/city-mobil/insecticide) - Insecticide is a tool suite for Redis configuration profiling.
+- [Insecticide](https://github.com/city-mobil/insecticide) - Tool suite for Redis configuration profiling.
 
 ## 5. Security
 
